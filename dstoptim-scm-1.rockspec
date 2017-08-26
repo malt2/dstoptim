@@ -2,7 +2,7 @@ package = "dstoptim"
 version = "scm-1"
 
 source = {
-    url = "https://github.com/malt2/dstoptim"
+    url = "git://github.com/malt2/dstoptim"
 }
 
 
